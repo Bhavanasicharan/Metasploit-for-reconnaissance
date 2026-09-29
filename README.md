@@ -3,7 +3,6 @@
 Metasploit for reconnaissance in pentesting
 
 # AIM:
-
 To get introduced to Metasploit Framework and to  perform reconnaissance  in pentesting .
 
 ## DESIGN STEPS:
